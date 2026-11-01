@@ -18,15 +18,18 @@ function About() {
 								style={{ textAlign: "left" }}
 							>
 								<p>
-									Hi, my name is Kacy. I am currently a 20 year old computer
-									science student in my second year of university.
+									Hi, my name is Kacy. I am currently a 21 year old computer
+									science student in my third year of university.
 								</p>
 								<p>
-									My parents are from Laos, and I was born and raised in Idaho.
+									I was born and raised in Idaho and my parents are from Laos.
 									Growing up I had a lot of interest in computers because of my
-									father, who introduced technology to me at a young age.
-									Because of my background, I am extremely open to new skills
-									and experiences.
+									father, who introduced technology to me at a young age along
+									with a natural curiosity. I am extremely open to new skills
+									and experiences due to a diverse yet cohesive collection of
+									interests and experiences which include technical
+									guitar/music, tactile hobbies, and an analytical gaming
+									approach.
 								</p>
 							</section>
 						</div>
@@ -52,8 +55,7 @@ function About() {
 									<ul className="card-text">
 										<li>Guitar &amp; Music</li>
 										<li>Gaming</li>
-										<li>Lifting</li>
-										<li>Reading</li>
+										<li>Rubiks Cube</li>
 									</ul>
 								</div>
 							</div>
@@ -62,10 +64,11 @@ function About() {
 						<div className="col-md-4 mb-4">
 							<div className="card h-100">
 								<div className="card-body text-start">
-									<h5 className="card-title">Goals</h5>
+									<h5 className="card-title">Main Goals</h5>
 									<ul className="card-text">
 										<li>Internship</li>
-										<li>Creating Content</li>
+										<li>Developing CS Skills</li>
+										<li>Creating/contributing to valuable projects</li>
 									</ul>
 								</div>
 							</div>
@@ -74,10 +77,11 @@ function About() {
 						<div className="col-md-4 mb-4">
 							<div className="card h-100">
 								<div className="card-body text-start">
-									<h5 className="card-title">Current Works</h5>
+									<h5 className="card-title">Side Goals</h5>
 									<ul className="card-text">
-										<li>Youtube</li>
-										<li>CS Projects</li>
+										<li>Alexi Laiho Solos</li>
+										<li>Youtube Channel</li>
+										<li>R6 Siege Grind</li>
 									</ul>
 								</div>
 							</div>
